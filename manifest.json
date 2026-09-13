@@ -1,0 +1,26 @@
+{
+  "id": "https://www.escuila.info/",
+  "name": "Escuila - سكويلة",
+  "short_name": "Escuila",
+  "description": "موارد تعليمية للأساتذة والتلاميذ",
+  "start_url": "https://www.escuila.info/",
+  "scope": "https://www.escuila.info/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8a0a7f",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw3q-y5R4rtZBddReTHwzBQRgDM-Uz1mw36dKEdp8X09fSOp9nHG_tx4VRrzglON1Ox6bdCYFFFQ4QAEcTGGSC8c7PPqpJYO7zds7ZKPV8T22aTHCZ1KqJwnGpdcZA3aBzq_nc4eeQYGeK2113leqTA5G_KS528n93T9DRw1-QYKNpBWZR-OU43EyVDZ4/s192/escuila-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Cwv6xBKofyqUp1uPkTg4ax2WLBP5bnNtoIEK3zv3QetPAfOvJ_FqsNPEnZMVbL4ofb8EnSCIxeUO4zLnqqWokjsmT3wLeH3Qrdv5wIiYoPkQP_Hy_1gbgUaJxsYePGrCvuC1jUxxaG_oga3vhya7Z54ZdSVdKzNRVJfrKzEKtemh0LwK81ezdFW3pDk/s320/escuila-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
